@@ -21,7 +21,7 @@ export default function WeddingSaveTheDate() {
     >
       <div className={styles.content}>
         <h1 className={`${styles.names} ${cormorantGaramond.className}`}>
-          Mads og Lilly
+          Lilly og Mads
         </h1>
         <p className={`${styles.date} ${parisienne.className}`}>
           gifter seg 12. juni 2027
